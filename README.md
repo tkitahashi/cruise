@@ -1,4 +1,7 @@
 # Cruises
+<div style="text-align: right;">
+<a href="https://tkitahashi.github.io/" ><Back</a>
+</div>
 
 ## 2018年
 
