@@ -118,3 +118,6 @@
 淡青丸KT08-30（熊野灘・遠州灘）    11月13日（台場）～17日（鹿児島）
 
 なつしまNT08-07 Leg. 2（明神海丘）    4月3日（横須賀）～17日（清水）
+
+___
+**[[HOME]](https://tkitahashi.github.io/)  [[CV]](https://tkitahashi.github.io/cv/)  [[研究業績]](https://tkitahashi.github.io/publication/)  [[学会発表]](https://tkitahashi.github.io/presentation/)  [[研究乗船歴]](https://tkitahashi.github.io/cruise/)**
