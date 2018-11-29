@@ -59,8 +59,7 @@
 
 ## 2013年
 
-新青丸KS13-01（三陸沖）    12月8日（横須賀）～16日（晴海）    ＊新青丸による最初の研究航海  （研究トピックス，研究室日誌） 
-**＊新青丸による最初の研究航**　<a href="http://www.aori.u-tokyo.ac.jp/research/topics/2013/20131216.html" target="_blank">[研究トピックス]</a>；<a href="http://www.ecosystem.aori.u-tokyo.ac.jp/benthos/newpage13.html" target="_blank">[研究室日記]</a>
+新青丸KS13-01（三陸沖）    12月8日（横須賀）～16日（晴海）    **＊新青丸による最初の研究航**　<a href="http://www.aori.u-tokyo.ac.jp/research/topics/2013/20131216.html" target="_blank">[研究トピックス]</a>；<a href="http://www.ecosystem.aori.u-tokyo.ac.jp/benthos/newpage13.html" target="_blank">[研究室日記]</a>
 
 新青丸KS13-T2（鹿島沖、相模湾）    10月12日（横須賀）～17日（晴海）
 
