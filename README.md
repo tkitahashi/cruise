@@ -5,7 +5,7 @@
 
 ## 2018年
 
-よこすかYK18-E02C（磐城海山） 10月15日（横須賀）〜28日（横須賀）    <a href="http://www.jamstec.go.jp/shinkai6500/reports/yk18-e02.html" target="_blank">[しんかい６５００ レポート]</a>；<a href="www.jamstec.go.jp/sip/report20181114.html" target="_blank">[記者説明会]</a>
+よこすかYK18-E02C（磐城海山） 10月15日（横須賀）〜28日（横須賀）    <a href="http://www.jamstec.go.jp/shinkai6500/reports/yk18-e02.html" target="_blank">[しんかい６５００ レポート]</a>；<a href="http://www.jamstec.go.jp/sip/report20181114.html" target="_blank">[記者説明会]</a>
 
 
 かいめいKM18-07C Leg. 2（沖縄トラフ）    8月17日（那覇）〜26日（横須賀）
